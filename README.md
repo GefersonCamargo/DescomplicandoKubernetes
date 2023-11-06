@@ -68,4 +68,6 @@ O Kube Proxy desempenha um papel fundamental na conectividade e na comunicação
 
 ### Node Port ⇒ 30.000 - 32.767 TCP
 
+https://www.notion.so/Kubernetes-K8S-d9a8256bd91443378f99b02506024731?pvs=4
+
 ### Weave Net ⇒ 6783 - 6784 TCP/UDP
