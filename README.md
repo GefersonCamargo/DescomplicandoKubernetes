@@ -10,8 +10,8 @@ Existem diversas fontes de estudo disponíveis, como documentação oficial, tut
 Os estudos de K8S podem ser desafiadores, mas são extremamente valiosos para profissionais de desenvolvimento e operações que desejam trabalhar com sistemas modernos e escaláveis.
 
 ---
+![Exempli de imagem](https://www.notion.so/Kubernetes-K8S-d9a8256bd91443378f99b02506024731?pvs=4#81c88f25e39e460bab706973acd399e3)
 
-![components-of-k8s.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b287784-a557-48c4-bb72-6b159e09c315/60110c9f-ab1f-42fd-8186-7b102ec117e3/components-of-k8s.png)
 
 # CONTROL PLANE
 
